@@ -1,7 +1,7 @@
 // Escreva uma função que recebe um número e retorna uma função que, quando chamada, retorna o número multiplicado por 2.
 
 function multiplicar(valor) {
-    return function() {
+    return function()   {
         return valor * 2
     } 
 }
